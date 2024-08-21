@@ -1,0 +1,5 @@
+This is a text file
+Inside Static Folder
+static folder is used
+to render the file as 
+it is in the app/page
